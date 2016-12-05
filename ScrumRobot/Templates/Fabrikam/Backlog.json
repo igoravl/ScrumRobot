@@ -1,0 +1,153 @@
+{
+  "BacklogItems": [
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can view service invoices online",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "3"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can sign in using Windows Live ID",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "8"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Technician can check on parts orders on phone",
+      "Area": "\\Mobile",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "2"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Technician can look for closest hardware store from phone",
+      "Area": "\\Mobile",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "2"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can find the nearest Fabrikam Fiber location",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "5"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can sign up for emails about service outages",
+      "Area": "\\Dashboard\\Alerts",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "5"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Technician can report busy/late on phone",
+      "Area": "\\Mobile",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "5"
+    },
+    {
+      "Type": "Bug",
+      "Title": "Bug: Customers with Canadian addresses not displaying properly",
+      "acceptancecriteria": "",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "3",
+      "state": "Approved"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Technician can send GPS location from phone",
+      "Area": "\\Mobile",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "5"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Service rep can view service ticket details from the dashboard",
+      "Area": "\\Dashboard",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "5"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can opt-in/opt-out of paper billing",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "5"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can see upcoming appointments",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "5"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can look up television lineup online",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "8"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Replace hard-coded server names and IP addresses",
+      "Area": "\\",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "5"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can sign in using Facebook account",
+      "Area": "\\Social",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "8"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can become a Fan of Fabrikam Fiber on Facebook",
+      "Area": "\\Social",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "8"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can reschedule appointments",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "8"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Technician can see service tickets on phone",
+      "Area": "\\Mobile",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "8"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Technician can edit customer contact details on phone",
+      "Area": "\\Mobile",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "13"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Customer can pay invoices online",
+      "Area": "\\Customers",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "21"
+    },
+    {
+      "Type": "Product Backlog Item",
+      "Title": "Refactor controller code to patterns",
+      "Area": "\\",
+      "AssignedTo": "Richard Hundhausen",
+      "Effort": "8"
+    }
+  ]
+}

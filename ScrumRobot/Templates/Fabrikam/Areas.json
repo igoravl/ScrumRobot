@@ -1,0 +1,47 @@
+{
+  "Areas": [
+    {
+      "Name": "Tickets",
+      "Children": [
+        {
+          "Name": "Assignment"
+        },
+        {
+          "Name": "Escalation"
+        }
+      ]
+    },
+    {
+      "Name": "Dashboard",
+      "Children": [
+        {
+          "Name": "Alerts"
+        },
+        {
+          "Name": "Messages"
+        },
+        {
+          "Name": "Tips"
+        }
+      ]
+    },
+    {
+      "Name": "Customers"
+    },
+    {
+      "Name": "Employees"
+    },
+    {
+      "Name": "Reports"
+    },
+    {
+      "Name": "Profile"
+    },
+    {
+      "Name": "Mobile"
+    },
+    {
+      "Name": "Social"
+    }
+  ]
+}
